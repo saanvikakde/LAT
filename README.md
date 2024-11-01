@@ -1,1 +1,5 @@
 # LAT
+
+To solve the client’s problems, I proposed creating a Java program that would read in a plain text file that ideally has a text excerpt in English. Upon reading the file, the program would traverse it to look for potential vocabulary words, constructing a vocabulary list. Conditions for world selection are built into the program so that it can avoid shorter words or conjunctions. Upon creation, the program would allow the client to manipulate the vocabulary list by adding, deleting, or editing the words. Next, the client would be asked to select a translation language and be prompted to download an Excel spreadsheet containing all vocabulary words and their translations in the specified language.
+ Java is the most efficient language for this program since the client only needs to access it through their personal laptop at home, where they would store their study materials. Since Java is platform-independent, the client would encounter less difficulty if they were to switch operating systems. Additionally, Java can fulfill all program requirements by allowing for a clean graphical interface, manipulation of objects, and serialization. 
+
